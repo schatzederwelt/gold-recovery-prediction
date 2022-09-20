@@ -53,15 +53,6 @@
 <br> ✔️ Кастомная метрика качества ✔️ Обучающие кривые </br>
 </div>
 
-## Инструменты
-
-<div class="alert alert-success">
-<br> ✔️ LinearRegression ✔️ DecisionTree ✔️ RandomForest </br>
-<br> ✔️ PowerTransformer </br>
-<br> ✔️ learning_curve </br>
-<br> ✔️ make_scorer ✔️ cross_val_score </br>
-</div>
-
 ## Исходные данные
 
 
