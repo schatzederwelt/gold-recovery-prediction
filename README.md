@@ -1,4 +1,4 @@
-#  Добыча золота - исследование технологического процесса
+#  Добыча золота - предсказание коэффициента обогащения
 ![gold recovery](https://st4.depositphotos.com/10614052/25181/i/600/depositphotos_251812044-stock-photo-gold-nuggets-on-dark-background.jpg)
 ## Описание проекта
 
